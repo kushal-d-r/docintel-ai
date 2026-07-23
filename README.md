@@ -1,2 +1,18 @@
-# docintel-ai
-AI-powered document understanding system using vision models, OCR, FastAPI, and PyTorch
+# DocIntel AI
+
+An AI-powered document understanding system built using:
+
+- FastAPI
+- Streamlit
+- PyTorch
+- Hugging Face
+- Vision Language Models
+- OCR
+
+## Features
+
+- Upload Documents
+- OCR
+- Information Extraction
+- Document Question Answering
+- JSON Export
